@@ -8,6 +8,7 @@
   0'dan n'ye (n dahil) tüm çift sayıları yazdırın.
 """
 ##### 1. soru ####
+
 liste = [2484,25,1,0,2,21,32,78,56,4,7,3,8]
 print("my list:",liste)
 lenght = 2
