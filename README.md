@@ -1,10 +1,10 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 ```
- Course Date:** 21.10.1999
- Name:** Ali Bora 
- Surname:** Varinli  
- Email:** aliboravarinliv@gmail.com  
+ Course Date: 21.10.1999
+ Name: Ali Bora 
+ Surname: Varinli  
+ Email: aliboravarinli@gmail.com  
 ```
 
 ## Projects
